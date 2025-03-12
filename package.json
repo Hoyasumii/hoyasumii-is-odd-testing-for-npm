@@ -1,5 +1,5 @@
 {
-  "name": "@hoyasumii/is-odd-testing-for-npm",
+  "name": "is-odd-testing-for-npm",
   "version": "1.0.1",
   "description": "",
   "main": "dist/is-odd.js",
